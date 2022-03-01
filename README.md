@@ -1,5 +1,5 @@
 # temp_CiMM
-Temporary codebase upload for BCM access and download
+Temporary codebase upload for BCM access and downloads
 
 
 ## Brief Notes
